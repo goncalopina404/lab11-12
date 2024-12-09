@@ -1,0 +1,111 @@
+[
+    {
+      "title": "HTML",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+      "description": "Linguagem de marcação usada para estruturar o conteúdo da web.",
+      "rating": {
+        "rate": 4.5,
+        "count": 300
+      }
+    },
+    {
+      "title": "CSS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
+      "description": "Folhas de estilo usadas para controlar o design e a aparência de páginas web.",
+      "rating": {
+        "rate": 4.2,
+        "count": 250
+      }
+    },
+    {
+      "title": "JavaScript",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+      "description": "Linguagem de programação para criar comportamentos dinâmicos em páginas web.",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "title": "JSON",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg",
+      "description": "Formato leve para troca de dados entre sistemas.",
+      "rating": {
+        "rate": 4.4,
+        "count": 220
+      }
+    },
+    {
+      "title": "API RESTful",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/REST_API_logo.png",
+      "description": "Modelo de arquitetura para construção de APIs.",
+      "rating": {
+        "rate": 4.7,
+        "count": 350
+      }
+    },
+    {
+      "title": "Swagger",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
+      "description": "Ferramenta para documentação e teste de APIs REST.",
+      "rating": {
+        "rate": 4.6,
+        "count": 320
+      }
+    },
+    {
+      "title": "GitHub",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+      "description": "Plataforma para controle de versão e colaboração em projetos.",
+      "rating": {
+        "rate": 4.9,
+        "count": 500
+      }
+    },
+    {
+      "title": "Codespaces",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Visual_Studio_Codespaces_logo.svg",
+      "description": "Editor de código na nuvem para desenvolvimento colaborativo.",
+      "rating": {
+        "rate": 4.3,
+        "count": 150
+      }
+    },
+    {
+      "title": "GitHub Pages",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/GitHub_Pages_logo.svg",
+      "description": "Serviço de hospedagem para páginas estáticas diretamente do GitHub.",
+      "rating": {
+        "rate": 4.7,
+        "count": 330
+      }
+    },
+    {
+      "title": "React.js",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+      "description": "Biblioteca JavaScript para criar interfaces de utilizador dinâmicas.",
+      "rating": {
+        "rate": 4.8,
+        "count": 450
+      }
+    },
+    {
+      "title": "Next.js",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg",
+      "description": "Framework React para criação de aplicações web modernas.",
+      "rating": {
+        "rate": 4.9,
+        "count": 470
+      }
+    },
+    {
+      "title": "Vercel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vercel_logo.svg",
+      "description": "Plataforma para implantação rápida de aplicações frontend.",
+      "rating": {
+        "rate": 4.7,
+        "count": 360
+      }
+    }
+  ]
+  

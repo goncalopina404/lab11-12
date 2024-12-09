@@ -40,7 +40,7 @@ body {
 
 main {
   /* Reset e Box Model */
-  width: 320px;
+  width: 50%;
   height: 450px;
   padding: 20px;
   border-radius: 20px;
