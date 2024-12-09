@@ -29,10 +29,11 @@ export default function RootLayout({
   return (
     <html lang="pt">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+      <Link href="/produtos">Produtos</Link>
+      <Link href="/tecnologias">Tecnologias</Link>
         <Header />
        <main>{children}</main> 
-       <Link href="/produtos">Produtos</Link>
-       <Link href="/tecnologias">Tecnologias</Link>
+       
        <Footer />
       </body>
     </html>
